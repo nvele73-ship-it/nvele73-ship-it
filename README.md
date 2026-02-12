@@ -46,18 +46,10 @@ I'm transitioning toward **ML Application Engineering**, focusing on how ML can 
 ---
 
 ### 📂 Projects (Upcoming / In Progress)
-- 🔧 Predictive maintenance model  
 - 📊 Data analysis on automotive sensor datasets  
 - 🤖 Simple ML classification & regression models  
 - 🧪 Engineering-focused ML experiments  
-
----
-
-### 📫 Connect With Me
-- 📧 Email: *add your email here*  
-- 💼 LinkedIn: *add your LinkedIn link here*  
-
----
+------
 
 ### 👍 Motto
 > *“Learning something new every day — moving from mechanical to machine intelligence.”*
