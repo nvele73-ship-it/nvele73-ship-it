@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nitin Vele</h1>
+<h3 align="center">Aspiring ML Application Engineer | Mechanical Design Engineer</h3>
 
-<!--
-**nvele73-ship-it/nvele73-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
+Mechanical Design Engineer with 10+ years of experience in the automotive industry, specializing in plastic components, HVAC systems, and engine domain.  
+Passionate about transitioning into **Machine Learning** and building intelligent applications that solve real-world engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus
+- Learning **Python for ML & Data Science**
+- Understanding **Machine Learning algorithms**
+- Exploring **data preprocessing, model training & evaluation**
+- Building beginner ML projects and applied engineering use-cases
+- Tools I'm learning:  
+  **NumPy · Pandas · Scikit-Learn · Matplotlib**
+
+---
+
+### 🛠️ Skills & Tools
+
+#### Mechanical Engineering
+- CATIA  
+- Siemens NX  
+- Plastic design & automotive components  
+- HVAC & engine domain expertise  
+
+#### Machine Learning (Learning Phase)
+- Python  
+- Data Cleaning & Analysis  
+- ML Model Building  
+- Visualization  
+
+---
+
+### 📚 Current Learning Journey
+I'm transitioning toward **ML Application Engineering**, focusing on how ML can be applied to:
+
+- Predictive design validation  
+- Manufacturing quality improvements  
+- Engineering data insights  
+- Optimization of system performance  
+
+---
+
+### 📂 Projects (Upcoming / In Progress)
+- 🔧 Predictive maintenance model  
+- 📊 Data analysis on automotive sensor datasets  
+- 🤖 Simple ML classification & regression models  
+- 🧪 Engineering-focused ML experiments  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: *add your email here*  
+- 💼 LinkedIn: *add your LinkedIn link here*  
+
+---
+
+### 👍 Motto
+> *“Learning something new every day — moving from mechanical to machine intelligence.”*
+
+---
+
+⭐ **If you like my learning journey, consider following me on GitHub!**
